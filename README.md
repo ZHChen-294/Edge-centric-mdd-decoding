@@ -15,6 +15,6 @@ This repository contains all implementations for **Edge-centric MDD Decoding** a
 <!-- **Paper:** *MAF-GNN: Graph Neural Network-based Multi-Atlas Brain Functional Information Fusion for Major Depressive Disorder Diagnosis with rs-fMRI* -->
 <!-- Submitted to [**Biomedical Signal Processing and Control**](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control) (In Revising). -->
 
-**Code:** [https://github.com/ZHChen-294/MDD-bio-subtypes](https://github.com/ZHChen-294/MDD-bio-subtypes)
+**Code:** [https://github.com/ZHChen-294/Edge-centric-mdd-decoding](https://github.com/ZHChen-294/Edge-centric-mdd-decoding)
 
 ---
