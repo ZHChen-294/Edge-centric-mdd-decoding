@@ -1,6 +1,3 @@
-# Edge-centric-mdd-decoding
-
-
 # Edge-centric MDD Decoding
 **Paper**: _Multi-scale network pathology in major depressive disorder: an edge-centric functional connectivity study_
 
