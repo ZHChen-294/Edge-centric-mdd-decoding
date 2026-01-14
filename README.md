@@ -2,7 +2,7 @@
 **Paper**: _Multi-scale network pathology in major depressive disorder: an edge-centric functional connectivity study_
 
 <p align="center">
-Created by <a href="https://github.com/ZHChen-294">Zhihong Chen</a>, Jiayi Peng, Xiaorui Han, Mengfan Wang, Jiang Wu, Li Pu, Xinhua Wei, Zhengze Gong, Maohua Lyu, Yunlin Zheng*, <a href="https://scholar.google.com.hk/citations?user=ClUoWqsAAAAJ&hl=zh-CN&oi=ao">Dezhong Yao*</a> and Hongmei Yan*
+Created by <a href="https://github.com/ZHChen-294">Zhihong Chen</a>, Jiayi Peng, Xiaorui Han, Minhui Bai, Mengfan Wang, Jiang Wu, Li Pu, Xinhua Wei, Zhengze Gong, Maohua Lyu, Yunlin Zheng*, <a href="https://scholar.google.com.hk/citations?user=ClUoWqsAAAAJ&hl=zh-CN&oi=ao">Dezhong Yao*</a> and <a href="https://scholar.google.com.hk/citations?user=KJqKYq4AAAAJ&hl=zh-CN">Hongmei Yan</a>*
 </p>
 
 ---
