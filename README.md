@@ -2,7 +2,7 @@
 **Paper**: _Edge-Centric Connectome Patterns of Clinical Heterogeneity in Major Depressive Disorder: Associations with Transcriptomic and Neurotransmitter Profiles_
 
 <p align="center">
-Created by <a href="https://github.com/ZHChen-294">Zhihong Chen</a>, Xian Mo, Mengfan Li, Jiayi Peng, Xiaorui Han, Minhui Bai, Mengfan Wang, Jiang Wu, Li Pu, Xinhua Wei, Zhengze Gong, Maohua Lyu, Yunlin Zheng, Wei Zhang*, <a href="https://scholar.google.com.hk/citations?user=ClUoWqsAAAAJ&hl=zh-CN&oi=ao">Dezhong Yao</a>* and <a href="https://scholar.google.com.hk/citations?user=KJqKYq4AAAAJ&hl=zh-CN">Hongmei Yan</a>*
+Created by <a href="https://github.com/ZHChen-294">Zhihong Chen</a>, Xian Mo, Mengfan Li, Jiayi Peng, Xiaorui Han, Minhui Bai, Mengfan Wang, Jiang Wu, Li Pu, Xinhua Wei, Zhengze Gong, Maohua Lyu, Yunlin Zheng, <a href="[https://scholar.google.com.hk/citations?user=KJqKYq4AAAAJ&hl=zh-CN](https://www.cd120.com/expertlist/detail/53536.html)">Wei Zhang</a>*, <a href="https://scholar.google.com.hk/citations?user=ClUoWqsAAAAJ&hl=zh-CN&oi=ao">Dezhong Yao</a>* and <a href="https://scholar.google.com.hk/citations?user=KJqKYq4AAAAJ&hl=zh-CN">Hongmei Yan</a>*
 </p>
 
 ---
