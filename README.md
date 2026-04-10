@@ -2,7 +2,7 @@
 **Paper**: _Edge-Centric Connectome Patterns of Clinical Heterogeneity in Major Depressive Disorder: Associations with Transcriptomic and Neurotransmitter Profiles_
 
 <p align="center">
-Created by <a href="https://github.com/ZHChen-294">Zhihong Chen</a><sup>1</sup>, Xian Mo,<sup>2</sup> Mengfan Li,<sup>3</sup> Minhui Bai,<sup>1</sup> Jiayi Peng,<sup>4</sup> Xiaorui Han,<sup>5</sup> Mengfan Wang,<sup>5</sup> Jiang Wu,<sup>1</sup> Li Pu,<sup>1</sup> Zhengze Gong,<sup>6</sup> Xinhua Wei,<sup>5</sup> Qinyu Lv,<sup>7</sup> Zhenghui Yi,<sup>7</sup> <a href="https://www.cd120.com/expertlist/detail/53536.html">Wei Zhang</a>*, <a href="https://scholar.google.com.hk/citations?user=ClUoWqsAAAAJ&hl=zh-CN&oi=ao">Dezhong Yao</a><sup>1</sup>* and <a href="https://scholar.google.com.hk/citations?user=KJqKYq4AAAAJ&hl=zh-CN">Hongmei Yan</a><sup>1</sup>*
+Created by <a href="https://github.com/ZHChen-294">Zhihong Chen</a><sup>1</sup>, Xian Mo,<sup>2</sup> Mengfan Li,<sup>3</sup> Minhui Bai,<sup>1</sup> Jiayi Peng,<sup>4</sup> Xiaorui Han,<sup>5</sup> Mengfan Wang,<sup>5</sup> Jiang Wu,<sup>1</sup> Li Pu,<sup>1</sup> Zhengze Gong,<sup>6</sup> Xinhua Wei,<sup>5</sup> Qinyu Lv,<sup>7</sup> Zhenghui Yi,<sup>7</sup> <a href="https://www.cd120.com/expertlist/detail/53536.html">Wei Zhang</a>*,<sup>2,8</sup> <a href="https://scholar.google.com.hk/citations?user=ClUoWqsAAAAJ&hl=zh-CN&oi=ao">Dezhong Yao</a><sup>1</sup>* and <a href="https://scholar.google.com.hk/citations?user=KJqKYq4AAAAJ&hl=zh-CN">Hongmei Yan</a><sup>1</sup>*
 </p>
 
 ---
