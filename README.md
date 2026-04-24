@@ -34,5 +34,7 @@ This repository contains all implementations for **edge-centric MDD heterogeneit
 ---
 
 <h1 align="left">Coming soon ...</h1>
-<sub>All code will be publicly available upon the acceptance of the manuscript.</sub>
+<p align="left">
+  <sub>All code will be publicly available upon the acceptance of the manuscript.</sub>
+</p>
 
