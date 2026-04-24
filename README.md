@@ -1,4 +1,4 @@
-# Edge-centric Major Depressive Disorder Clinical Heterogeneity
+# Edge-centric MDD Clinical Heterogeneity
 <!-- **Paper**: _Edge-Centric Connectome Patterns of Clinical Heterogeneity in Major Depressive Disorder: Associations with Transcriptomic and Neurotransmitter Profiles_ -->
 **Paper**: _Edge-centric connectome and molecular profiles of major depression and its clinical heterogeneity_
 
