@@ -1,5 +1,5 @@
 # Edge-centric MDD Clinical Heterogeneity
-# **Paper**: _Edge-Centric Connectome Patterns of Clinical Heterogeneity in Major Depressive Disorder: Associations with Transcriptomic and Neurotransmitter Profiles_
+<!-- **Paper**: _Edge-Centric Connectome Patterns of Clinical Heterogeneity in Major Depressive Disorder: Associations with Transcriptomic and Neurotransmitter Profiles_ -->
 **Paper**: _Edge-centric connectome and molecular profiles of major depression and its clinical heterogeneity_
 
 <p align="center">
@@ -32,3 +32,5 @@ This repository contains all implementations for **edge-centric MDD heterogeneit
 **Code:** [https://github.com/ZHChen-294/Edge-centric-mdd-decoding](https://github.com/ZHChen-294/Edge-centric-mdd-decoding)
 
 ---
+
+<h6>Coming soon ...</h6>
