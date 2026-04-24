@@ -33,8 +33,6 @@ This repository contains all implementations for **edge-centric MDD heterogeneit
 
 ---
 
-# Coming soon ...
-## Coming soon ...
-
-<p><b><font size="16">大字号标题（无线）</font></b></p>
+<h1 align="left">Coming soon ...</h1>
+<sub>All code will be publicly available upon the acceptance of the manuscript.</sub>
 
