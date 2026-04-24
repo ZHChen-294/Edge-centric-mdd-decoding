@@ -31,6 +31,10 @@ This repository contains all implementations for **edge-centric MDD heterogeneit
 
 **Code:** [https://github.com/ZHChen-294/Edge-centric-mdd-decoding](https://github.com/ZHChen-294/Edge-centric-mdd-decoding)
 
+<div align="center">
+  <img src="https://github.com/ZHChen-294/Edge-centric-mdd-decoding/blob/main/Img/Framework.png" width="90%">
+</div>
+
 ---
 
 <h1 align="left">Coming soon ...</h1>
