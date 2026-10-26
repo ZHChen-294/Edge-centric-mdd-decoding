@@ -201,22 +201,6 @@ New K-means solutions have arbitrary community labels and require explicit align
 
 ## Methods and parameters
 
-### Edge time series
-
-For standardized ROI signals \(z_i(t)\) and \(z_j(t)\):
-
-\[
-e_{ij}(t) = z_i(t)z_j(t).
-\]
-
-Edges follow NumPy’s strict upper-triangle order:
-
-```python
-np.triu_indices(123, k=1)
-```
-
-This gives **7,503 undirected edges**.
-
 ### Edge-community clustering
 
 The selected study setting is **K = 10**. Clustering is applied to `ets.T`, so edges are observations and time points are features.
