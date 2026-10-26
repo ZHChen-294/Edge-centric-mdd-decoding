@@ -75,7 +75,9 @@ This release focuses on the core edge-centric methods and community data. It doe
   <img src="Img/Community.jpg" width="95%" alt="K=10 functional communities in MDD and HC">
 </p>
 
-The ten communities describe **edge-community organization**. Their spatial maps show each ROI’s participation in individual communities; they are not ten mutually exclusive anatomical parcels.
+(A) Ten functional communities identified in the MDD group. (B) Ten corresponding communities in the HC group. Community labels are aligned across groups for direct comparison.
+
+The ten communities describe edge-community organization. Their spatial maps show each ROI’s participation in individual communities, rather than ten mutually exclusive anatomical parcels.
 
 ## Repository structure
 
