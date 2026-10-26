@@ -96,7 +96,6 @@ The ten communities describe **edge-community organization**, with **(a)** repre
 │   ├── roi_mapping.csv
 │   └── roi_atlas.nii.gz
 ├── communities/
-│   ├── README.md
 │   ├── group_communities_k10.npz
 │   ├── MDD_community_participation.nii.gz
 │   └── HC_community_participation.nii.gz
