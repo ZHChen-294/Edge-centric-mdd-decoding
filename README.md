@@ -63,7 +63,7 @@ The shared community data correspond to the author-confirmed plotting inputs for
 
 This release focuses on the core edge-centric methods and community data. It does not include the complete group-statistical, clinical, transcriptomic, or neurotransmitter analysis pipelines.
 
-## Study framework
+## Study overview
 
 <p align="center">
   <img src="Img/Framework.jpg" width="95%" alt="Study framework">
