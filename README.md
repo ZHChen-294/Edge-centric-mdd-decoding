@@ -83,8 +83,6 @@ The ten communities describe **edge-community organization**, with **(a)** repre
 .
 ├── README.md
 ├── requirements.txt
-├── provenance.json
-├── checksums.sha256
 ├── edgecentric/
 │   ├── __init__.py
 │   ├── timeseries.py
