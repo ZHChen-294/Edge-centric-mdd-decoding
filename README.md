@@ -278,8 +278,6 @@ Individual K-means uses `random_state=None`, as in the original implementation. 
 
 Only group-level community data and atlas mappings are distributed. Raw fMRI time series, participant identifiers, and clinical records are not included.
 
-Source references and fingerprints are recorded in `provenance.json`; file checksums are provided in `checksums.sha256`.
-
 ## Citation and attribution
 
 If you use this code or the community data, please cite:
