@@ -268,8 +268,6 @@ Each group’s NIfTI has shape **`(97, 115, 97, 10)`** on the supplied **MNI152N
 
 The NIfTIs preserve unthresholded participation. Published surface rendering additionally applies percentile-based display scaling, low-value thresholding, and thalamic display merging. Consequently, NIfTI values should not be interpreted as rendered image intensities.
 
-See [`communities/README.md`](communities/README.md) for details.
-
 ## Reproducibility and data availability
 
 The release preserves the original core computation logic and selected K=10 setting. Interfaces, key parameters, saved arrays, and spatial mappings were checked during packaging; no clustering or complete analysis was rerun.
