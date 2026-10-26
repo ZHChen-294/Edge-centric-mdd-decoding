@@ -288,15 +288,5 @@ If you use this code or the community data, please cite:
 
 > Chen Z, et al. *Edge-centric connectome patterns of clinical heterogeneity in major depressive disorder: Associations with transcriptomic and neurotransmitter profiles.*
 
-Please also acknowledge the original **Schaefer2018**, **Tian**, and **Buckner2011** atlas publications when using the supplied ROI mappings.
-
 Publication details and a DOI will be added when available.
-
-## License
-
-A code and data license has not yet been specified. Third-party atlas components remain subject to their respective redistribution terms.
-
-## Contact
-
-For questions or reproducibility issues, please open a [GitHub issue](https://github.com/ZHChen-294/Edge-centric-mdd-decoding/issues).
 
